@@ -1,3 +1,7 @@
+*{
+  background-color: #26161F;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -39,4 +43,41 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.contact-list{
+  font-size: 2.3em;
+  color:#F9E9D0;
+  /* -webkit-text-stroke-color: #26161F;
+  -webkit-text-stroke-width: 0.025em; */
+
+}
+
+.selected-contact{
+  font-size: 2.3em;
+  color: #F9E9D0;
+  /* -webkit-text-stroke-color: #26161F;
+  -webkit-text-stroke-width: 0.025em; */
+}
+
+.row{
+  background-color: #F9E9D0;
+}
+
+.titleRow1{
+  background-color: #A30052;
+  font-weight: bolder;
+  color: #F9E9D0;
+}
+
+.titleRow2{
+  background-color: #A30052;
+  font-weight: bolder;
+  color: #F9E9D0;
+}
+
+.contactTable{
+  color: #26161F;
+  font-size: 1.5em;
+
 }
